@@ -30,6 +30,5 @@ Bu proje, Selenium ve Python kullanarak WhatsApp'a mesaj göndermek için bir ot
 * WhatsApp Web'e giriş yapın: Script çalıştırıldığında, WhatsApp Web sayfası açılır. QR kodunu tarayarak WhatsApp hesabınıza giriş yapın. Giriş yaptıktan sonra script, contact.csv dosyasındaki her bir telefon numarasına belirtilen mesajı gönderecektir.
 
 ## Dikkat Edilmesi Gerekenler
-* Bu script, kişisel WhatsApp hesabınıza mesaj göndermek için kullanılmalıdır.
 * WhatsApp Web'e giriş yapmanız gerektiği için scripti ilk çalıştırmada 10 saniye bekler. QR kodunu tarayarak giriş yapmalısınız.
 * Bu scripti yalnızca izin verilen ve etik olan durumlarda kullanmalısınız.
